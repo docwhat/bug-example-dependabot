@@ -8,5 +8,5 @@ require (
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	github.com/philhofer/fwd v1.1.1 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
-	gopkg.in/DataDog/dd-trace-go.v1 v1.32.0
+	gopkg.in/DataDog/dd-trace-go.v1 v1.33.0
 )
